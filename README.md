@@ -1,1 +1,1 @@
-My first project in Python!
+My first project in the Python!
